@@ -1,6 +1,6 @@
 # BubbleSort
 
-- This function take an array as input and perform in-place bubble sort.
+- This function takes an array as input and performs in-place bubble sort.
 
 # Build with
 
